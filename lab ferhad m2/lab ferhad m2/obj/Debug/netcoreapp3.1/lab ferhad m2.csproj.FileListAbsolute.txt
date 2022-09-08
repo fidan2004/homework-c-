@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\bin\Debug\netcoreapp3.1\lab ferhad m2.exe
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\bin\Debug\netcoreapp3.1\lab ferhad m2.deps.json
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\bin\Debug\netcoreapp3.1\lab ferhad m2.runtimeconfig.json
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\bin\Debug\netcoreapp3.1\lab ferhad m2.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\bin\Debug\netcoreapp3.1\lab ferhad m2.dll
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\bin\Debug\netcoreapp3.1\lab ferhad m2.pdb
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.AssemblyInfo.cs
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.dll
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.pdb
+C:\Users\Hp\source\repos\lab ferhad m2\lab ferhad m2\obj\Debug\netcoreapp3.1\lab ferhad m2.genruntimeconfig.cache
