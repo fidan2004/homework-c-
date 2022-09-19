@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\bin\Debug\netcoreapp3.1\taskin class 1.exe
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\bin\Debug\netcoreapp3.1\taskin class 1.deps.json
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\bin\Debug\netcoreapp3.1\taskin class 1.runtimeconfig.json
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\bin\Debug\netcoreapp3.1\taskin class 1.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\bin\Debug\netcoreapp3.1\taskin class 1.dll
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\bin\Debug\netcoreapp3.1\taskin class 1.pdb
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.dll
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.pdb
+C:\Users\Hp\source\repos\taskin class 1\taskin class 1\obj\Debug\netcoreapp3.1\taskin class 1.genruntimeconfig.cache
