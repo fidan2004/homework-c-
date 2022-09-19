@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.AssemblyInfo.cs
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\to send txt file\to send txt file\bin\Debug\netcoreapp3.1\to send txt file.exe
+C:\Users\Hp\source\repos\to send txt file\to send txt file\bin\Debug\netcoreapp3.1\to send txt file.deps.json
+C:\Users\Hp\source\repos\to send txt file\to send txt file\bin\Debug\netcoreapp3.1\to send txt file.runtimeconfig.json
+C:\Users\Hp\source\repos\to send txt file\to send txt file\bin\Debug\netcoreapp3.1\to send txt file.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\to send txt file\to send txt file\bin\Debug\netcoreapp3.1\to send txt file.dll
+C:\Users\Hp\source\repos\to send txt file\to send txt file\bin\Debug\netcoreapp3.1\to send txt file.pdb
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.dll
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.pdb
+C:\Users\Hp\source\repos\to send txt file\to send txt file\obj\Debug\netcoreapp3.1\to send txt file.genruntimeconfig.cache
